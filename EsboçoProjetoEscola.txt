@@ -1,0 +1,15 @@
+O que uma Escola deve fazer?
+
+
+
+Atores: aluno, professor, responsável, administrador: herdam características de uma pessoa(usuário que loga no sistema).
+
+
+Pessoa: fazer login, modificar senha
+
+Administrador: matricular e/ou gerenciar alunos e professores; emitir relatórios;
+
+Aluno: consultar frequência, notas; alteras e consultar dados pessoais; emitir boletim;
+
+Professor: registrar/gerenciar frequência e notas; modificar dados pessoais; emitir relatórios;
+
